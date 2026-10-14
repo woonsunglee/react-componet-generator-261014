@@ -6,7 +6,9 @@
       "Bash(npx vitest:*)",
       "Bash(npx tsc:*)",
       "Bash(git add:*)",
-      "Bash(git commit -m \"$\\(cat <<''EOF''\nfeat: React 컴포넌트 생성기 프로젝트 초기 설정\n\nAI\\(Claude, Gemini\\)를 활용한 React 컴포넌트 생성기 프로젝트 구성:\n- Vite + React 19 + TypeScript 프론트엔드\n- Bun 기반 API 프록시 서버 \\(Anthropic/Google AI 연동\\)\n- react-live를 활용한 실시간 컴포넌트 미리보기\n- AGENTS.md 기반 에이전트 거버넌스 시스템\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")"
+      "Bash(git commit -m \"$\\(cat <<''EOF''\nfeat: React 컴포넌트 생성기 프로젝트 초기 설정\n\nAI\\(Claude, Gemini\\)를 활용한 React 컴포넌트 생성기 프로젝트 구성:\n- Vite + React 19 + TypeScript 프론트엔드\n- Bun 기반 API 프록시 서버 \\(Anthropic/Google AI 연동\\)\n- react-live를 활용한 실시간 컴포넌트 미리보기\n- AGENTS.md 기반 에이전트 거버넌스 시스템\n\n🤖 Generated with [Claude Code]\\(https://claude.com/claude-code\\)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n\\)\")",
+      "Bash(gh repo create:*)",
+      "Bash(git checkout:*)"
     ]
   }
 }
